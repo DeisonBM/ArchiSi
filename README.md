@@ -3,9 +3,9 @@
 ArchiSid es un sistema de gestión de biblioteca desarrollado en PHP para facilitar el manejo de libros, usuarios y préstamos. Este proyecto incluye módulos para asignación de libros, devoluciones, autenticación de usuarios y mucho más.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/4d104acc-a86e-456f-8c07-3f62d11f26e7" alt="Vista 1" style="width: 300px; height: auto;">
-    <img src="https://github.com/user-attachments/assets/0bb2b756-8505-4f8b-8e6f-862e86c13a34" alt="Vista 2" style="width: 300px; height: auto;">
-    <img src="https://github.com/user-attachments/assets/955d39e5-f27b-4599-89c0-f364b6a172e9" alt="Vista 3" style="width: 300px; height: auto;">
+    <img src="https://github.com/user-attachments/assets/4d104acc-a86e-456f-8c07-3f62d11f26e7" alt="Vista 1" style="width: 200px; height: auto;">
+    <img src="https://github.com/user-attachments/assets/0bb2b756-8505-4f8b-8e6f-862e86c13a34" alt="Vista 2" style="width: 200px; height: auto;">
+    <img src="https://github.com/user-attachments/assets/955d39e5-f27b-4599-89c0-f364b6a172e9" alt="Vista 3" style="width: 200px; height: auto;">
 </div>
 
 ## Características
