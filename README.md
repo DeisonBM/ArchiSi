@@ -1,6 +1,6 @@
 # ArchiSid
 
-ArchiSid es un sistema de gestión de biblioteca desarrollado en PHP para facilitar el manejo de libros, usuarios y préstamos. Este proyecto incluye módulos para asignación de libros, devoluciones, autenticación de usuarios y mucho más.
+ArchiSid es un sistema de gestión de libros archivisticos desarrollado en PHP para facilitar el manejo de libros, usuarios y préstamos. Este proyecto incluye módulos para asignación de libros, devoluciones, autenticación de usuarios y mucho más.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="https://github.com/user-attachments/assets/4d104acc-a86e-456f-8c07-3f62d11f26e7" alt="Vista 1" style="width: 200px; height: auto;">
